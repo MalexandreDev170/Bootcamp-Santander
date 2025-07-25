@@ -1,0 +1,5 @@
+print(1+10)
+print(3.8+4,6)
+print(1.5+4+5.5)
+print(True)
+print(False)
