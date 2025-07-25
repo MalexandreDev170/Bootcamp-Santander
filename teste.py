@@ -11,3 +11,5 @@ if idade >= 18 and carteira == 's':
     print("Pode dirigir!")
 else:
     print("Não pode dirigir ainda!")
+
+input("aperte enter para sair")
